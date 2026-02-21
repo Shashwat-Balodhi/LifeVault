@@ -27,6 +27,3 @@ data/logs/
 .DS_Store
 Thumbs.db
 
-# Sample files (don't commit large test files)
-sample_files/*
-!sample_files/.gitkeep

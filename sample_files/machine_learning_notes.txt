@@ -1,0 +1,34 @@
+Machine Learning Notes - Study Guide
+
+1. Supervised Learning
+   - Classification: Predicting a category (spam/not spam, cat/dog)
+   - Regression: Predicting a continuous value (house price, temperature)
+   - Common algorithms: Linear Regression, Decision Trees, Random Forests, SVM, Neural Networks
+
+2. Unsupervised Learning
+   - Clustering: Grouping similar items (K-means, DBSCAN, Hierarchical)
+   - Dimensionality Reduction: PCA, t-SNE, UMAP
+   - Anomaly Detection: Isolation Forest, One-Class SVM
+
+3. Deep Learning
+   - CNNs for image recognition
+   - RNNs and LSTMs for sequence data
+   - Transformers for NLP (BERT, GPT, T5)
+   - GANs for generative tasks
+
+4. Key Concepts
+   - Overfitting vs Underfitting
+   - Bias-Variance Tradeoff
+   - Cross-validation
+   - Feature Engineering
+   - Hyperparameter Tuning (Grid Search, Random Search, Bayesian Optimization)
+
+5. Popular Frameworks
+   - PyTorch
+   - TensorFlow/Keras
+   - scikit-learn
+   - Hugging Face Transformers
+
+Notes from the Summer 2025 Workshop at VIT
+Professor: Dr. Sharma
+Date: July 15, 2025
