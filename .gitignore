@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment (contains API keys)
+.env
+
+# ChromaDB data
+data/chroma_db/
+
+# Logs
+data/logs/
+*.log
+
+# Model cache
+.cache/
+
+# IDE
+.vscode/
+.idea/
+.gemini/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sample files (don't commit large test files)
+sample_files/*
+!sample_files/.gitkeep
+
+# Artifacts
+*.egg-info/
+dist/
+build/
