@@ -210,4 +210,5 @@ The app will open at `http://localhost:8501`.
 
 ## 📄 License
 
-MIT License — Built with ❤️ for the hackathon.
+no permission to copy and use in production...
+legal actions will be taken..
